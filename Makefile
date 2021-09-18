@@ -3,4 +3,4 @@ install:
 	poetry install
 
 up:
-	poetry run jupyter notebook python_imports.ipynb
+	poetry run jupyter notebook study_exercises.ipynb
